@@ -1,8 +1,8 @@
-![Ikhsancnt](img.png)
+![Ikhsancnt](img.png)#
 
 ## **Hi there! i want to understand coding**
 
-### **Connect With Me** 
+## **Connect With Me** 
 
 <a href="mailto:ikhsanputraa52@gmail.com"><img src="https://img.shields.io/badge/--555555?style=flat&logo=gmail"/></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=instagram"/></a>
@@ -11,7 +11,7 @@
 <a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Slack"/></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Discord"/></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/-LinkedIn%20Profile-2F66BC?style=for-the-badge&logo=linkedin"/></a>
-
+#
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-555555?style=flat&logo=php&labelColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-555555?style=flat&logo=laravel&labelColor=f5f5fa" />
@@ -35,9 +35,7 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vuedotjs&labelColor=42b983&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-555555?style=flat&logo=nuxtdotjs&labelColor=42b983&logoColor=white" />
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikhsancnt/Ikhsancnt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikhsancnt/Ikhsancnt/output/pacman-contribution-graph.svg">
