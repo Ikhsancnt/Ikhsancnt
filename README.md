@@ -4,13 +4,13 @@
 
 ### **Connect With Me** 
 
-<a href="mailto:ikhsanputraa52@gmail.com"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
-<a href="" target="blank"><img src="" /></a>
+<a href="mailto:ikhsanputraa52@gmail.com"><img src="https://img.shields.io/badge/--555555?style=flat&logo=gmail"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=instagram"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Whatsapp"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Facebook"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Slack"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/--555555?style=flat&logo=Discord"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/-LinkedIn%20Profile-2F66BC?style=for-the-badge&logo=linkedin"/></a>
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-555555?style=flat&logo=php&labelColor=white" />
